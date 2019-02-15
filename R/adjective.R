@@ -12,6 +12,7 @@ adjective <- c(
   "beautiful",
   "bedazzling",
   "best",
+  "wee",
   "bravissimo",
   "breathtaking",
   "brightest",
